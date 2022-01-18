@@ -4,10 +4,13 @@ public class Sample {
 
 	System.out.println("Hello from Jared");
 	System.out.println("Hello again");	
-	System.out.println("Revert this");
+	mary();
 }
 
+public static void mary() {
 
+	System.out.println("Hello from method!");
+}
 
 
 
