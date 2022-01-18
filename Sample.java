@@ -13,7 +13,8 @@ public class Sample {
 public static void jmethod() {
 
 System.out.println("J method");
-
+int x3 = 4*2;
+//This was added rn
 }
 
 
