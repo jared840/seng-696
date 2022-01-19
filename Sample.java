@@ -7,6 +7,7 @@ public class Sample {
 	System.out.println("Hello from Jared");
 	System.out.println("Hello again");	
 	jmethod();
+	jmethod();
 }
 
 
